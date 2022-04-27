@@ -1,0 +1,15 @@
+{
+  "room-title": "Plant Room",
+  "installations": [
+    {
+      "title": "Tubby Custard Machines",
+      "atribution": "Tinky Winky, Dipsy, Lala & Po",
+      "info-text": "The desert station of the future, the tubby custard machine is the next big thing to arrive at hacker camps everywhere!"
+    },
+    {
+      "title": "Urine Power Cell",
+      "atribution": "University of Bristol",
+      "info-text": "The future is here with pee power! This bio-reactor can generate electrical energy by processing urine through a specially deisgned fuel cell."
+    }
+  ]
+}
