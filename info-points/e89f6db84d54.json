@@ -5,7 +5,7 @@
   "neopixelRed": 255,
   "neopixelGreen": 140,
   "neopixelBlue": 0,
-  "neopixelUpdatePattern": 3,
+  "neopixelUpdatePattern": 5,
   "ledPwmMaxBrightness": 1024,
   "ledPwmChangeInterval": 5,
   "installationCycleDuration": 30000,
