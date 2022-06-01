@@ -14,3 +14,4 @@ Each Infopoint contacts Github for a JSON file here named for its MAC address as
 * e89f6db84e18 - Infopoint 07
 * e89f6db84e90 - Infopoint 08
 * e89f6db84d94 - Infopoint 09
+* e89f6db84d88 - Infopoint 10
