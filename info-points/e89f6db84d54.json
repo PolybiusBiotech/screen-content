@@ -1,6 +1,6 @@
 {
   "updateFrequency": 90000,
-  "neopixelMaxBrightness": 128,
+  "neopixelMaxBrightness": 255,
   "neopixelAnimationRate": 60,
   "ledPwmMaxBrightness": 1024,
   "ledPwmChangeInterval": 5,
