@@ -17,6 +17,10 @@
       "title": "Night Market",
       "atribution": "Various traders",
       "info-text": "Buy things from the fabulous traders!"
-    }
-  ]
+    },
+    {
+      "title": "Dance floor",
+      "atribution": "Various music",
+      "info-text": "Polybius approved tunes!"
+    }  ]
 }
