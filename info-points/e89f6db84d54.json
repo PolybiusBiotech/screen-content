@@ -11,12 +11,12 @@
   "installationCycleDuration": 30000,
   "titleCursorAnimationDelay": 25,
   "infoCursorAnimationDelay": 15,
-  "room-title": "Infopoint 02",
+  "room-title": "Canteen",
   "installations": [
     {
-      "title": "Installation 1",
-      "atribution": "Some hackers",
-      "info-text": "All the blinkenlights all the time!"
+      "title": "Night Market",
+      "atribution": "Various traders",
+      "info-text": "Buy things from the fabulous traders!"
     }
   ]
 }
