@@ -7,7 +7,7 @@
   "installationCycleDuration": 30000,
   "titleCursorAnimationDelay": 25,
   "infoCursorAnimationDelay": 15,
-  "room-title": "Laboratory 32a",
+  "room-title": "Lab 32a",
   "installations": [
     {
       "title": "ALICE",
