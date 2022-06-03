@@ -7,17 +7,12 @@
   "installationCycleDuration": 30000,
   "titleCursorAnimationDelay": 25,
   "infoCursorAnimationDelay": 15,
-  "room-title": "Infopoint 03",
+  "room-title": "Laboratory 32a",
   "installations": [
     {
-      "title": "Installation 1",
-      "atribution": "Some hackers",
-      "info-text": "All the blinkenlights all the time!"
-    },
-    {
-      "title": "Installation 2",
-      "atribution": "Serious art collective",
-      "info-text": "Meditate on the meaning of life through the sound of seascapes reworked as an infrared heat massage."
+      "title": "ALICE",
+      "atribution": "Julie Freeman",
+      "info-text": "Harnessing the Power of human waste, the 'living bricks' in the ALICE project use microbial fuel cell (MFC) technology to provide an alternative to fossil fuels and natural waste water treatments."
     }
   ]
 }
