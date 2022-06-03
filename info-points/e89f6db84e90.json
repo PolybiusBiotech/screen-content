@@ -7,17 +7,17 @@
   "installationCycleDuration": 30000,
   "titleCursorAnimationDelay": 25,
   "infoCursorAnimationDelay": 15,
-  "room-title": "Infopoint 08",
+  "room-title": "Night Market & Bar",
   "installations": [
     {
-      "title": "Installation 1",
-      "atribution": "Some hackers",
-      "info-text": "All the blinkenlights all the time!"
+      "title": "Night Market",
+      "atribution": "Various Traders",
+      "info-text": "Buy stuff from our lovely traders!"
     },
     {
-      "title": "Installation 2",
-      "atribution": "Serious art collective",
-      "info-text": "Meditate on the meaning of life through the sound of seascapes reworked as an infrared heat massage."
+      "title": "Bar",
+      "atribution": "Polybius consumables",
+      "info-text": "Enjoy a tasty beverage."
     }
   ]
 }
