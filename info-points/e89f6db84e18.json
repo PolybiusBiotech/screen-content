@@ -7,17 +7,12 @@
   "installationCycleDuration": 30000,
   "titleCursorAnimationDelay": 25,
   "infoCursorAnimationDelay": 15,
-  "room-title": "Infopoint 07",
+  "room-title": "Life Support",
   "installations": [
     {
-      "title": "Installation 1",
-      "atribution": "Some hackers",
-      "info-text": "All the blinkenlights all the time!"
-    },
-    {
-      "title": "Installation 2",
-      "atribution": "Serious art collective",
-      "info-text": "Meditate on the meaning of life through the sound of seascapes reworked as an infrared heat massage."
+      "title": "Latent Voyage",
+      "atribution": "Tim Murray-Browne",
+      "info-text": "Latent Voyage invites you to navigate through the hallucinatory space of a generative AI model, entirely through the movement of your body"
     }
   ]
 }
