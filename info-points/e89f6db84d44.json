@@ -1,5 +1,5 @@
 {
-  "updateFrequency": 90000,
+  "updateFrequency": 30000,
   "neopixelMaxBrightness": 255,
   "neopixelAnimationRate": 60,
   "ledPwmMaxBrightness": 1024,
@@ -7,17 +7,12 @@
   "installationCycleDuration": 30000,
   "titleCursorAnimationDelay": 25,
   "infoCursorAnimationDelay": 15,
-  "room-title": "Infopoint 05",
+  "room-title": "Channel ALPHA",
   "installations": [
     {
-      "title": "Installation 1",
-      "atribution": "Some hackers",
-      "info-text": "All the blinkenlights all the time!"
-    },
-    {
-      "title": "Installation 2",
-      "atribution": "Serious art collective",
-      "info-text": "Meditate on the meaning of life through the sound of seascapes reworked as an infrared heat massage."
+      "title": "Dortmunder Vier",
+      "atribution": "Lager: 4%",
+      "info-text": "A pale lager with key influences from Pilsner, gold in colour with a moderate bitterness from Noble hops."
     }
   ]
 }

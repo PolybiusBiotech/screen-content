@@ -1,5 +1,5 @@
 {
-  "updateFrequency": 90000,
+  "updateFrequency": 30000,
   "neopixelMaxBrightness": 255,
   "neopixelAnimationRate": 60,
   "ledPwmMaxBrightness": 1024,
@@ -7,12 +7,12 @@
   "installationCycleDuration": 30000,
   "titleCursorAnimationDelay": 25,
   "infoCursorAnimationDelay": 15,
-  "room-title": "Plant Room",
+  "room-title": "Channel BETA",
   "installations": [
     {
-      "title": "Bar Fights",
-      "atribution": "We Throw Switches",
-      "info-text": "Playable data visualiser"
+      "title": "Arbor Helles Lager",
+      "atribution": "Gluten-Free Lager: 4.2%",
+      "info-text": "Gluten Free Munich Helles brewed with Hallertau Mittelfrüh hops. Contains <20ppm of gluten."
     }
   ]
 }
