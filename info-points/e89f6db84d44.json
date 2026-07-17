@@ -7,12 +7,12 @@
   "installationCycleDuration": 30000,
   "titleCursorAnimationDelay": 25,
   "infoCursorAnimationDelay": 15,
-  "room-title": "Channel ALPHA",
+  "room-title": "Tap One",
   "installations": [
     {
       "title": "Dortmunder Vier",
-      "atribution": "Lager: 4%",
-      "info-text": "A pale lager with key influences from Pilsner, gold in colour with a moderate bitterness from Noble hops."
+      "atribution": "Lager: 4% £4.80",
+      "info-text": "Dortmunder Vier is a pale lager with key influences from Pilsen (Pilsner). Gold in colour with moderate bitterness and zesty malt undertones."
     }
   ]
 }
