@@ -7,12 +7,12 @@
   "installationCycleDuration": 30000,
   "titleCursorAnimationDelay": 25,
   "infoCursorAnimationDelay": 15,
-  "room-title": "Channel GAMMA",
+  "room-title": "Tap Three",
   "installations": [
     {
-      "title": "Weston's Stowford Press",
-      "atribution": "Cider: 4.5%",
-      "info-text": "A refreshing medium-dry sparkling cider that is bursting with the delicious flavour of crisp cider apples."
+      "title": "Burning Sky Arise",
+      "atribution": "Cider: 4.5% 5.50",
+      "info-text": "Brewed with Pilsner and wheat malts and backed up with a huge charge of Citra, Centennial and Amarillo hops for big, peach, pine and resinous aromas."
     }
   ]
 }

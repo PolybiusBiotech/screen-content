@@ -7,12 +7,12 @@
   "installationCycleDuration": 30000,
   "titleCursorAnimationDelay": 25,
   "infoCursorAnimationDelay": 15,
-  "room-title": "Life Support",
+  "room-title": "Tap Two",
   "installations": [
     {
-      "title": "Latent Voyage",
-      "atribution": "Tim Murray-Browne",
-      "info-text": "Latent Voyage invites you to navigate through the hallucinatory space of a generative AI model, entirely through the movement of your body"
+      "title": "Inch's Medium Apple",
+      "atribution": "Cider 4.5%  4.90",
+      "info-text": "Inch's Medium Apple Cider is a lightly sparkling cider with a fresh apple aroma – perfect for sunshine sipping."
     }
   ]
 }
